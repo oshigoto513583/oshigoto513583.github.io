@@ -1,0 +1,14 @@
+{
+  "applinks": {
+    "details": [
+      {
+        "appID": "GSSN9QUHD9.com.nakajima.G2Bridge",
+        "components": [
+          {
+            "/": "/g2bridge/*"
+          }
+        ]
+      }
+    ]
+  }
+}
